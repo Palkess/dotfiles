@@ -43,7 +43,11 @@
 # resize-overlay-duration = 4s 200ms
 
 theme=Dark Modern
+window-theme=ghostty
 background-opacity=0.9
 background-blur=true
 window-padding-x=8
 window-padding-y=8
+window-width = 130
+window-height = 30
+keybind = ctrl+backspace=text:\x17
