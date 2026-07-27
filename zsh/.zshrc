@@ -112,3 +112,5 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$HOME/.local/bin:$PATH"
 
 alias repotime="cd ~/Documents/repos && ls -al"
+
+export PATH="$HOME/development/flutter/bin:$PATH"
